@@ -79,5 +79,6 @@ m <- new("MixVARGaussian", prob = prob, vcov = Sigma, arcoef = AR, shift = shift
 set.seed(1234)
 y <- mixVAR_sim(m, n = 100, init = matrix(0, ncol = 3), nskip = 50, flag = FALSE)
 
-fit_mixVAR(y, m, tol = 10e-3)
+fit_mixVAR(y, m, tol = 1e-3)
+mixVARfit(y, m, tol = 1e-3)
 }

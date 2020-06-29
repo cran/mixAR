@@ -1,3 +1,18 @@
+# mixAR 0.22.4 (CRAN)
+
+- `tsdiag` has been extensively revamped. It now is more user friendly and
+   offers more diagnostics. The object returned by it has a class and a print
+   method.
+
+- `tsdiag` now works also for models with non-Gaussian components.
+
+- `mixAR_BIC` now takes into account estimated noise parameters, useful for
+   non-Gaussian noise components.
+
+- updated README.md.
+
+- relaxed some comparison tests raising "Additional issues" on CRAN.
+
 
 # mixAR 0.22.3 (CRAN)
 
