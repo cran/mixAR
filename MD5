@@ -1,6 +1,6 @@
-245f909743d07e22ca8788de5dfa8d71 *DESCRIPTION
+f89b23453a277133b29dcce71c367257 *DESCRIPTION
 84c9f947995348d5b186791ba9aa6b1f *NAMESPACE
-57051e6c37bc1bf184bf8ceb0e850475 *NEWS.md
+7b12386dc7644aeb491ea524c9c565d5 *NEWS.md
 09339ef8d6bfc82aaf9d27bc922ad344 *R/00marmath.R
 882e1a6c88d84aed4b650fdf414fd2be *R/Choose_pk.R
 5ce0503d8918a3bca91fb52cebfbb5ab *R/bayes_mixAR.R
@@ -34,13 +34,13 @@ d37406044a6aa3f9ba386259721a592b *R/raggedCoefS.R
 47bdf693a3edf402f6590353d1a7a192 *R/samp_functions.R
 0dc66752dc8b6a8be9945f7a7aafdc39 *R/tsdiag.R
 571b483e6bcd09a826409e1f9c1edd19 *README.md
-9be2d8e485eec20acd7a9cb5134465f5 *build/partial.rdb
+94bd7f93767533f36c32147406ee0330 *build/partial.rdb
 eb28d3c84bf23298d83e77994e01b016 *data/PortfolioData1.rda
 81b5be664d3dd7cd4a32872bca0d7301 *inst/REFERENCES.bib
 66663bdede0e7c9734814c817d8c4fd9 *inst/slowtests/example.R
 385e1f2b21c7ae604ee49443df0db2a4 *man/Choose_pk.Rd
 613fb97420036f761334abec0a4c20fd *man/MixAR-class.Rd
-0b53f183a6b9ebf717b31d98f416f32e *man/MixARGaussian-class.Rd
+51278288302640b0df09eeb78102f2de *man/MixARGaussian-class.Rd
 8d0e4b4dd3b4647d34c8b9c32120c80d *man/MixARgen-class.Rd
 fcbcd1a7771176a749fdac441abaeadd *man/MixComp-class.Rd
 56ec96859a79fe8ca8a183a3ae093c70 *man/MixVAR-class.Rd
@@ -139,7 +139,7 @@ eac4aa122091c253e48124b942e0a2fe *man/ui.Rd
 8afba37d600ae84d16ee02326705db90 *tests/testthat/mix_se_lynx.rds
 582e6d30ce504cf3479c591fbe18cbab *tests/testthat/ms.RDS
 52a4773dd44682e616a90485437cb32a *tests/testthat/test-bayesian.R
-fcd83eb08958218dda106d8b253fa49b *tests/testthat/test-exampleModels.R
+f6d352c72e033c365faad78684983036 *tests/testthat/test-exampleModels.R
 a161cc169b42a46e2975e5da6af80a35 *tests/testthat/test-inner.R
 5f963f576d060751e9e72cf01c34d18c *tests/testthat/test-mixAR.R
 be2e934cb91407297a251b650b7fac58 *tests/testthat/test-mixAR_diag.R
