@@ -4,7 +4,8 @@ import(stats4)
 importFrom(stats, approxfun, density, dnorm, ecdf, pnorm,
            sd, uniroot, var, ar, dgamma, dpois, lm, rgamma, rnorm, runif,
            ks.test, punif, qnorm, shapiro.test, 
-           Box.test, acf, pacf, tsdiag)
+           Box.test, acf, pacf, tsdiag,
+           constrOptim, optim)
 
 importFrom(graphics, title, par, lines, hist)
 
@@ -22,7 +23,7 @@ importFrom(combinat, permn)
 importFrom(fGarch, pstd, dstd, rstd, qstd)
 importFrom(timeDate, skewness, kurtosis)
 
-importFrom(gbutils, plotpdf, pseudoInverse)
+importFrom(gbutils, plotpdf, pseudoInverse, cdf2quantile)
 importFrom(Rdpack, reprompt)
 
 importFrom(mvtnorm, dmvnorm, rmvnorm)
@@ -111,6 +112,7 @@ mix_location,
 mix_moment,
 mix_ncomp, 
 mix_pdf,
+mix_qf,
 mix_variance,
 mixAny_sim,
 mixAR,
