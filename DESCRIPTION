@@ -1,8 +1,8 @@
 Package: mixAR
 Type: Package
 Title: Mixture Autoregressive Models
-Version: 0.22.6
-Date: 2022-01-23
+Version: 0.22.7
+Date: 2022-05-03
 Authors@R: c( person(given = c("Georgi", "N."), 
                      family = "Boshnakov", 
                      role = c("aut", "cre"), 
@@ -39,8 +39,8 @@ Collate: raggedCoef.R raggedCoefS.R mixComp.R mixAR.R mixARcalc.R
 Encoding: UTF-8
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2022-01-23 18:49:32 UTC; georgi
+Packaged: 2022-05-03 10:43:16 UTC; georgi
 Author: Georgi N. Boshnakov [aut, cre],
   Davide Ravagli [aut]
 Repository: CRAN
-Date/Publication: 2022-01-23 19:22:42 UTC
+Date/Publication: 2022-05-03 13:10:13 UTC

@@ -1,6 +1,6 @@
-286088e13c30b13b8abe1fe801cb8611 *DESCRIPTION
+bdf0e530995dc98eaac6291c89dda12e *DESCRIPTION
 7b148c3da2dd1b4e3e643b0d2b05188b *NAMESPACE
-e38f834019617876fd3b5614721df99c *NEWS.md
+be75ce0dd31bf3ec30ff55d5eefbf919 *NEWS.md
 2d40787a4b8fc71e505018ea507b9eaa *R/00marmath.R
 882e1a6c88d84aed4b650fdf414fd2be *R/Choose_pk.R
 5ce0503d8918a3bca91fb52cebfbb5ab *R/bayes_mixAR.R
@@ -34,7 +34,7 @@ d37406044a6aa3f9ba386259721a592b *R/raggedCoefS.R
 47bdf693a3edf402f6590353d1a7a192 *R/samp_functions.R
 8b4ec7e6b30fc80884f366ebce18ba72 *R/tsdiag.R
 7cfa8b4a1481147327db71b122a2cc02 *README.md
-2a0c76052c37704f9ebf2abb96a6fe4a *build/partial.rdb
+9929d1bd9115156187325b103a47c761 *build/partial.rdb
 eb28d3c84bf23298d83e77994e01b016 *data/PortfolioData1.rda
 0543940ff9869a8dee7eff8a8dacac52 *inst/REFERENCES.bib
 66663bdede0e7c9734814c817d8c4fd9 *inst/slowtests/example.R
@@ -67,7 +67,7 @@ e0051518bc65f288c1d0e454cef3122c *man/fit_mixAR-methods.Rd
 026b77c9c7030e4a59f9631c4d2da230 *man/fnoise.Rd
 1d678bc661e67ec801c11c03b2f84c94 *man/get_edist-methods.Rd
 a8e826ce76366d8716f7d11bca27183b *man/initialize-methods.Rd
-1fe0d314caa685194bf82d68d48265c0 *man/inner.Rd
+067549a8dc1d085a34cc6374f35059b3 *man/inner.Rd
 2369fe6f9545924fe53e4ed01cbc16b2 *man/isStable.Rd
 9189c3831c2bb8c075ef916a63e5c655 *man/label_switch.Rd
 be0a390fb088f85260d8722d3e983b53 *man/lastn.Rd
@@ -81,7 +81,7 @@ f0f40fc22872928b0059d38563987958 *man/mixAR-package.Rd
 fb1232ecf9092bc0a6b94aff84242f44 *man/mixARExperiment.Rd
 c118e095a6f9026af43d6fed7c2cc124 *man/mixAR_BIC.Rd
 e2319044e5725b945b2dfbf26f52d1f2 *man/mixAR_cond_probs.Rd
-b57342947899b88fa132ba5e492f427e *man/mixAR_diag.Rd
+180d861596b8a1d6c664b36636206317 *man/mixAR_diag.Rd
 5817532974083982ac531738b85ae669 *man/mixAR_sim.Rd
 f14ddb7cf40594d25ca4ad40cab8cbca *man/mixAR_switch.Rd
 5ffa05f563c9dc5aabcedae267a29fcc *man/mixARemFixedPoint.Rd
@@ -93,13 +93,13 @@ f14ddb7cf40594d25ca4ad40cab8cbca *man/mixAR_switch.Rd
 f8ff16ea5a00041cec9ff9c0861d431f *man/mixVAR_sim.Rd
 60467ccdbf7bc800540a2f26d0bf41af *man/mixVARfit.Rd
 d833dbd02685402c6dc2b997ed827b00 *man/mix_central_moment-methods.Rd
-1f893d6eefdf0d636dd6d918277da502 *man/mix_ek.Rd
-dec1b19e016ba84603c19e93ae7dc484 *man/mix_hatk.Rd
+50795e75c0bcd57a1bafd5127fe49495 *man/mix_ek.Rd
+5cbbbce561d2a769a9f4578fa5128eb6 *man/mix_hatk.Rd
 672616e97deb89cb5a79596ea7296aae *man/mix_location-methods.Rd
 ad859278ee32198e1cf9f120a8cf33b0 *man/mix_moment-methods.Rd
-fd22a3935b230e9098ba14d2e011a628 *man/mix_moment.Rd
+c632d9dd6cc6acff3351e3112f56b8f6 *man/mix_moment.Rd
 4ba02bb89726cb6139e1c5fec227aca6 *man/mix_ncomp-methods.Rd
-b2121587596b6d5735e21486364a3de6 *man/mix_pdf-methods.Rd
+5a073930898f511bdb135332ca55c15c *man/mix_pdf-methods.Rd
 00bb5c89469c7bd28e38465e1ccd3fad *man/mix_qf-methods.Rd
 6a5860c3952015ecc8ed6081e136b14d *man/mix_se-methods.Rd
 49c6ef2186a669c49fd2436808054851 *man/mix_variance-methods.Rd
