@@ -1,4 +1,12 @@
-# mixAR 0.22.7
+# mixAR 0.22.8 (CRAN)
+
+- fixed 'Lost braces' NOTE on CRAN.
+
+- fixed "Documented arguments not in \usage in Rd file 'mixAR-internal.Rd':"
+  NOTE on CRAN.
+
+
+# mixAR 0.22.7 (CRAN)
 
 - fixed CRAN warning "`\item` in `\describe` must have non-empty label" in a
   couple of Rd files.
